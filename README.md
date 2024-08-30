@@ -14,9 +14,7 @@
 ## Introduction
 使用框架FLGO做的关于提高联邦学习公平性的算法实验，基准测试以及性能测试的比较结果还有一些数据集由于过大未放入项目中，在此展示核心算法模块和一些关键结构代码。
 
-<img src="https://github.com/WwZzz/easyFL/assets/20792079/4e46248e-24f8-4493-a21e-0b7833628617" width=180/>
-<img src="https://github.com/WwZzz/easyFL/assets/20792079/66779b4c-2c63-4262-acac-baeccdefeb6c" width=200/>
-</center>
+
 
 
 
